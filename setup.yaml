@@ -23,4 +23,4 @@ restore:
        url: 'https://www.ecloudcontrol.com/wp-content/uploads/2020/12/accountdb_20201210.zip'
     user: springboot-web
     password: $MYSQL_SPRINGBOOTWEB_PASSWORD  # password of the 'user' above.
-    token: 20220427-1026  # The restore token to be validated before restoring the database. (Same as TEARDOWN_TOKEN)
+    token: 20230301-0750  # The restore token to be validated before restoring the database. (Same as TEARDOWN_TOKEN)
